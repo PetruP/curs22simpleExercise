@@ -1,0 +1,5 @@
+Mamaia|2000|7
+Spain|1500|5
+London|2100|7
+London|4300|14
+Barcelona|1000|3
